@@ -8,3 +8,4 @@ ssssssss
 111111111111111111111111111111111
 
 hhhhhhh
+Creating a new branch is quick AND simple.
